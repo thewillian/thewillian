@@ -3,6 +3,9 @@
 🧑‍🎓Dev Fullstack (em formação)
 💻Apaixonado por tecnologia HTML, CSS, JAVASCRIPT E NODE
 ✔Buscando conhecimento na parte WEB
+👀 Sou interessado em muitas coisas, por aqui, busco conhecer pessoas e aprender.
+💞️ Contem comigo, espero poder ajudar o máximo de pessoas na comunidade.
+📫 Meu LinkedIn https://www.linkedin.com/in/willian-monteiro-9a492421a/
 
 <div align="center">
   <a href="https://github.com/thewillian">
