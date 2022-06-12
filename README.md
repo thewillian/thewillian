@@ -1,8 +1,8 @@
 📣Olá, eu sou Willian Monteiro✌
 
 🧑‍🎓Dev Fullstack (em formação)
-💻Apaixonado por tecnologia HTML, CSS, JAVASCRIPT E NODE
-✔Buscando conhecimento na parte WEB
+💻Apaixonado por tecnologia HTML, CSS, JAVASCRIPT, JAVA E ANGULAR.
+✔Buscando conhecimento na parte BD
 👀 Sou interessado em muitas coisas, por aqui, busco conhecer pessoas e aprender.
 💞️ Contem comigo, espero poder ajudar o máximo de pessoas na comunidade.
 📫 Meu LinkedIn https://www.linkedin.com/in/willian-monteiro-9a492421a/
